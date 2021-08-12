@@ -1,0 +1,13 @@
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\obj\Debug\netcoreapp3.1\Bankfuncional.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\obj\Debug\netcoreapp3.1\Bankfuncional.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\obj\Debug\netcoreapp3.1\Bankfuncional.AssemblyInfo.cs
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\obj\Debug\netcoreapp3.1\Bankfuncional.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\bin\Debug\netcoreapp3.1\Bankfuncional.exe
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\bin\Debug\netcoreapp3.1\Bankfuncional.deps.json
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\bin\Debug\netcoreapp3.1\Bankfuncional.runtimeconfig.json
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\bin\Debug\netcoreapp3.1\Bankfuncional.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\bin\Debug\netcoreapp3.1\Bankfuncional.dll
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\bin\Debug\netcoreapp3.1\Bankfuncional.pdb
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\obj\Debug\netcoreapp3.1\Bankfuncional.dll
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\obj\Debug\netcoreapp3.1\Bankfuncional.pdb
+C:\Users\thiag\Desktop\ProjetoFuncional\Bankfuncional\Bankfuncional\obj\Debug\netcoreapp3.1\Bankfuncional.genruntimeconfig.cache
