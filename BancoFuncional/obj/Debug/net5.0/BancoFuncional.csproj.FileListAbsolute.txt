@@ -1,0 +1,16 @@
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.csproj.AssemblyReference.cache
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.AssemblyInfoInputs.cache
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.AssemblyInfo.cs
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.csproj.CoreCompileInputs.cache
+C:\Users\thiag\DIO\BancoFuncional\bin\Debug\net5.0\BancoFuncional.exe
+C:\Users\thiag\DIO\BancoFuncional\bin\Debug\net5.0\BancoFuncional.deps.json
+C:\Users\thiag\DIO\BancoFuncional\bin\Debug\net5.0\BancoFuncional.runtimeconfig.json
+C:\Users\thiag\DIO\BancoFuncional\bin\Debug\net5.0\BancoFuncional.runtimeconfig.dev.json
+C:\Users\thiag\DIO\BancoFuncional\bin\Debug\net5.0\BancoFuncional.dll
+C:\Users\thiag\DIO\BancoFuncional\bin\Debug\net5.0\ref\BancoFuncional.dll
+C:\Users\thiag\DIO\BancoFuncional\bin\Debug\net5.0\BancoFuncional.pdb
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.dll
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\ref\BancoFuncional.dll
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.pdb
+C:\Users\thiag\DIO\BancoFuncional\obj\Debug\net5.0\BancoFuncional.genruntimeconfig.cache
